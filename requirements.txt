@@ -1,0 +1,3 @@
+pandas>=2.0
+pytest>=8.0
+anthropic>=0.40  # только для необязательного GenAI-шага (USE_LLM=1)
